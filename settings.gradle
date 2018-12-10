@@ -1,2 +1,4 @@
 rootProject.name = 'fabricate'
+include 'fabricate-core'
+include 'fabricate-spigot'
 
